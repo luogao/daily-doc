@@ -6,6 +6,7 @@ module.exports = {
     sidebar: [
       ['/', '首页'],
       ['/gastritis/', '胃炎'],
+      ['/theAvengers/', '复仇者联盟3'],
     ]
   }
 }
